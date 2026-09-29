@@ -15,6 +15,11 @@
 - Delete Task
 - Update Status (Pending / Completed)
 
+
+![image alt](https://github.com/vince187qt/Personal-task-manager/blob/4150752eb7faf2b312a6d6b89f69ae1de588fa65/Screenshot_5.png)
+![image alt](https://github.com/vince187qt/Personal-task-manager/blob/4150752eb7faf2b312a6d6b89f69ae1de588fa65/Screenshot_6.png)
+![image alt](https://github.com/vince187qt/Personal-task-manager/blob/825afc8501ffed6c5d107dddbdb4c683ddb31a99/Screenshot_9.png)
+![image alt](https://github.com/vince187qt/Personal-task-manager/blob/825afc8501ffed6c5d107dddbdb4c683ddb31a99/Screenshot_10.png)
 ## Technologies Used
 
 - Laravel
